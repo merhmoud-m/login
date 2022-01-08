@@ -1,0 +1,47 @@
+nav{
+    display: flex;
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    flex-direction: row;
+    margin-left: 690px;
+}
+h1{
+    color: blue;
+}
+button{
+    background-color: blue;
+    color: aliceblue;
+    border: none;
+    outline: none;
+    border-radius: 2px;
+}
+body{
+    background-color: whitesmoke;
+    font-family: cursive;
+}
+.lo{
+    height: 30px;
+}
+.p, .h, .ap, .lo{
+    margin-left: 30px;
+}
+h2{
+    font-size: 30px;
+    margin-top: 150px;
+    margin-left: 50px;
+}
+p{
+    color: gray;
+    margin-left: 50px;
+
+}
+.tff{
+    margin-left: 50px;
+    height: 40px;
+}
+h1{
+    margin-left: 50px;
+}
